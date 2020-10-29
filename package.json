@@ -4,6 +4,7 @@
 	"displayName": "No Control",
 	"description": "Removal of control characters in text",
 	"publisher": "AppSoftwareLtd",
+	"repository": "https://github.com/appsoftwareltd/no-control",
 	"version": "2.0.0",
 	"engines": {
 		"vscode": "^1.50.0"
