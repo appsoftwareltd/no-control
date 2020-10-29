@@ -1,6 +1,6 @@
 {
 	"name": "no-control",
-	"icon": "images/as-icon.png",
+	"icon": "https://github.com/garethrbrown/no-control/raw/master/images/as-icon.png",
 	"displayName": "No Control",
 	"description": "Removal of control characters in text",
 	"version": "0.0.1",
