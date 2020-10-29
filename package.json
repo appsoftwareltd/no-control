@@ -4,7 +4,7 @@
 	"displayName": "No Control",
 	"description": "Removal of control characters in text",
 	"publisher": "AppSoftwareLtd",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"engines": {
 		"vscode": "^1.50.0"
 	},
