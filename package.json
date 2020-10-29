@@ -3,6 +3,7 @@
 	"icon": "https://github.com/garethrbrown/no-control/raw/master/images/as-icon.png",
 	"displayName": "No Control",
 	"description": "Removal of control characters in text",
+	"publisher": "AppSoftwareLtd",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.50.0"
