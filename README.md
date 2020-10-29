@@ -2,6 +2,10 @@
 
 **No Control** is a Visual Studio Code extension for replacing control / non printable characters in text within VSCode.
 
+## Install
+
+Install from the VSCode market place: https://marketplace.visualstudio.com/items?itemName=AppSoftwareLtd.no-control&ssr=false#overview
+
 ## Features
 
 **Usage:**
