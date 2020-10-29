@@ -28,14 +28,6 @@ N/A
 
 N/A
 
-## Release Notes
-
-Initial release.
-
-### 1.0.0
-
-Initial release.
-
 ### For more information
 
 Email: mail@appsoftware.com
