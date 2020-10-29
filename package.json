@@ -10,7 +10,8 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:no-control.helloWorld"
+		"onCommand:no-control.helloWorld",
+		"onCommand:no-control.removeControlCharacters"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
@@ -18,6 +19,10 @@
 			{
 				"command": "no-control.helloWorld",
 				"title": "Hello World"
+			},
+			{
+				"command": "no-control.removeControlCharacters",
+				"title": "Remove Control Characters"
 			}
 		]
 	},
