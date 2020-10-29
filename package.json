@@ -1,5 +1,6 @@
 {
 	"name": "no-control",
+	"icon": "images/as-icon.png",
 	"displayName": "No Control",
 	"description": "Removal of control characters in text",
 	"version": "0.0.1",
@@ -10,16 +11,11 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:no-control.helloWorld",
 		"onCommand:no-control.removeControlCharacters"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
-			{
-				"command": "no-control.helloWorld",
-				"title": "Hello World"
-			},
 			{
 				"command": "no-control.removeControlCharacters",
 				"title": "Remove Control Characters"
